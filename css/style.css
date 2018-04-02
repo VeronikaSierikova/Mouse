@@ -5,7 +5,7 @@
 }
 
 body {
-    background: green;
+    background: yellow;
 }
 
 .mouse {
@@ -89,7 +89,7 @@ body {
     height: 20px;
     border-radius: 100%;
     border: 4px solid #000;
-    background: white;
+    background: #F6D2D6;
 }
 
 .mouse .stomach {
